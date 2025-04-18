@@ -1,0 +1,144 @@
+[[wuffs]]
+arch = "aarch64"
+git-tree-sha1 = "67273a0e450fc13e027f8b54ce11f77a4617835b"
+os = "macos"
+
+    [[wuffs.download]]
+    sha256 = "6e9db099cbb6ddd28f6cb9c2e2107d24bbbe488cb97edeea9641f992aa29edf9"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.aarch64-apple-darwin.tar.gz"
+[[wuffs]]
+arch = "aarch64"
+git-tree-sha1 = "f0b82e1076bc258e2b96a3d3cb149c1682ed82cb"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "443296da2c4556df7b4fa81ce1d7a5b27b975cff2b7fd6413fe2256d8f29977b"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.aarch64-linux-gnu.tar.gz"
+[[wuffs]]
+arch = "aarch64"
+git-tree-sha1 = "e1de51c011852f7f2e5181e8724941aab6219972"
+libc = "musl"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "cab04b67558a516cc7b02d705fde2ffe01f43abcff08570e78119465e66256c0"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.aarch64-linux-musl.tar.gz"
+[[wuffs]]
+arch = "aarch64"
+git-tree-sha1 = "6aa1f59e6295fbcaea0b0d0da2b8b1f0216e894a"
+os = "freebsd"
+
+    [[wuffs.download]]
+    sha256 = "bcdd9212cfbc3d61791efdb46da29ffe55e9f683ae779dea4ef6d1595e3ab7cb"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.aarch64-unknown-freebsd.tar.gz"
+[[wuffs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e125c91922b52c27f75f9af42201f7b2abd72a33"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "7375cdbc5c01a8ddff3833ab2af9be78c10531edbad166b2ad6c70b1f2f5b8b2"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.armv6l-linux-gnueabihf.tar.gz"
+[[wuffs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "003b7fbf8c8d9ac4b5d75aa069cc1264d7cf9b86"
+libc = "musl"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "0927d2e84951a5c559556fd0f90f8845878e5921b2cd81d23fdac6f7e0a59003"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.armv6l-linux-musleabihf.tar.gz"
+[[wuffs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "897b09a9620ad0e86783268a33b86e4b2c5fb8ae"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "238d8048ae83aa40bffc5c9f18c4763d96aea4b62c5140f47919f5a85a17930c"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.armv7l-linux-gnueabihf.tar.gz"
+[[wuffs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "40f091fdba9b13a327e2373dbb98477a4b5bf620"
+libc = "musl"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "f705ea4e6db0b5cffc8bd304ed6e3cfed6aecb90cddb89a68c1a950f0b30e6bd"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.armv7l-linux-musleabihf.tar.gz"
+[[wuffs]]
+arch = "i686"
+git-tree-sha1 = "46cf9b274a66e6964c205f5c2e01bfe8f1a03640"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "2a73f6594672a3c152e8c043c03e50f444bd3a81def4617212269d30f4d080d7"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.i686-linux-gnu.tar.gz"
+[[wuffs]]
+arch = "i686"
+git-tree-sha1 = "5186e9be99be8ee93f410464eed879b435955e6e"
+libc = "musl"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "347ff9b8f33b5c4b48371ec9b0540a73b48f2c703c9eeb07388abea097bafe5e"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.i686-linux-musl.tar.gz"
+[[wuffs]]
+arch = "powerpc64le"
+git-tree-sha1 = "45c3bf831490e0fefa127df564e96ade9ac6d73b"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "8f115c23a5b1e688b50aaf6e8a401a9f96e50a0625df0d11c2e54577754dce72"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.powerpc64le-linux-gnu.tar.gz"
+[[wuffs]]
+arch = "riscv64"
+git-tree-sha1 = "e0ed16a060f3872074ec1b1c15b3335591136e0c"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "582649ea6d3ad6e89864249c46ff30d19c4dabb3fd8925f998d807c83d3aa861"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.riscv64-linux-gnu.tar.gz"
+[[wuffs]]
+arch = "x86_64"
+git-tree-sha1 = "9a41572a2f16e75d56d45048439cdc0519677c0a"
+os = "macos"
+
+    [[wuffs.download]]
+    sha256 = "ca0d7fb3b94c5e1a60ee34010ce6a1d4d5e0b3bc0238eb37f15fc19a32303850"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.x86_64-apple-darwin.tar.gz"
+[[wuffs]]
+arch = "x86_64"
+git-tree-sha1 = "9a6c15aad7feae319694dd29505f6787fa5af274"
+libc = "glibc"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "da9a5490792e4715877cece9a6b73a72f6378653452496a7b6ae6c619ae14e62"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.x86_64-linux-gnu.tar.gz"
+[[wuffs]]
+arch = "x86_64"
+git-tree-sha1 = "2cef23ff5edaee91a22465cf7c3cd0742b282a48"
+libc = "musl"
+os = "linux"
+
+    [[wuffs.download]]
+    sha256 = "2ed2f57705c8c36929666e952c180b38036fac9df8324d2e651e018db2b958ca"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.x86_64-linux-musl.tar.gz"
+[[wuffs]]
+arch = "x86_64"
+git-tree-sha1 = "6b39230d2e206c101bcd5dc66a3fd0b513366263"
+os = "freebsd"
+
+    [[wuffs.download]]
+    sha256 = "f4825a0d88088f1a9ba21d3342bf221571612a64c469e67f51c417b134dfc877"
+    url = "https://github.com/JuliaBinaryWrappers/wuffs_jll.jl/releases/download/wuffs-v0.3.4+0/wuffs.v0.3.4.x86_64-unknown-freebsd.tar.gz"
